@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "AVR",
+      "compilerPath": "C:\\Program Files\\avr8-gnu-toolchain-win32_x86_64\\bin\\avr-gcc.exe",
+      "compilerArgs": [
+        "-mmcu=atmega328p"
+      ],
+      "defines": [
+        "F_CPU=16000000UL"
+      ]
+    }
+  ],
+  "version": 4
+}
